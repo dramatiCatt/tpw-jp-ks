@@ -4,5 +4,5 @@
 
 | Name Surname (initials)             | GUID                                     |
 | ------------------------------------| ---------------------------------------- |
-| Julia Pietrzykowska (PetraNovva)     | `{FD9D086C-532F-4AAC-BB99-69D7798837D8}` |
-| Karolina Sołtysiak  (dramatiCatt)   | `{44FBFCF5-4430-4964-878D-1867DC679E0D}` |
+| Julia Pietrzykowska (PetraNovva)     | `{ecc61423-ad9b-4282-b380-ce3d277e94f8}` |
+| Karolina Sołtysiak  (dramatiCatt)   | `{7ac812f5-ba00-49ca-abf5-0527538dd906}` |
